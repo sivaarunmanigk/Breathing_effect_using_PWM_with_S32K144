@@ -1,4 +1,4 @@
-# NXP S32K1xx PWM Breathing LED Example
+# NXP S32K144 PWM Breathing LED 
 
 An embedded C application demonstrating pulse-width modulation (PWM) output using the NXP S32 Design Studio SDK and the PWM Peripheral Abstraction Layer (PAL). The program smoothly ramps the duty cycle of a PWM channel up and down to create a "breathing" LED effect.
 
